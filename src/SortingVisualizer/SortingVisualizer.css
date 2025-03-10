@@ -1,0 +1,13 @@
+.array-container {
+    display: flex;
+    justify-content: center;
+    align-items:last baseline; /* center*/
+    height: 80vh; /* Full viewport height */
+}
+
+.array-bar {
+    width: 10px;
+    background-color: grey;
+    display: inline-block;
+    margin: 0 1px;
+}
